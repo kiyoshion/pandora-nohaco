@@ -1,4 +1,4 @@
 {
   "schemaVersion": 2,
-  "imageName": "php:8.1-alpine3.17"
+  "templateId": "php/8.1"
 }
