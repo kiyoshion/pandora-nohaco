@@ -1,0 +1,4 @@
+{
+  "shemaVersion": 2,
+  "templateId": "nginx:stable-alpine3.17-slim"
+}
