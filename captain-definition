@@ -1,4 +1,4 @@
 {
   "schemaVersion": 2,
-  "imageName": "nginx:stable-alpine3.17-slim"
+  "imageName": "php:8.1-alpine3.17"
 }
